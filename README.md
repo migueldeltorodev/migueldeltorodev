@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shinAC01
 - 👀 I’m interested in development of desktop and movile apps
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python, Java and C++
 - 💞️ I’m looking to collaborate on any project
 - 📫 You can contact me on: shinamv01@gmail.com or whatsapp at +53 56853256
 
