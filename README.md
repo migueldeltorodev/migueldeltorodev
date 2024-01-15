@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Miguel David Gonzalez del Toro a student of Engineering in 4th year of collage!
 - 👀 I’m interested in development/creation of web apps!
-- 🌱 I’m currently working in different projects with Java-Springboot, also the classic stack of HTML, CSS, JS.
+- 🌱 I’m currently working in different projects with Java-Springboot, C#-ASP.NET Core and React; also the classic stack of HTML, CSS, JS.
 - 💞️ I’m looking to collaborate on any project
 - 📫 You can contact me on: shinamv01@gmail.com or whatsapp at +53 56853256
 
