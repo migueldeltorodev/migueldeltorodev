@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Miguel David Gonzalez del Toro a Junior Software Engineering <br>👀 I’m interested in development/creation of web apps!<br>🌱 I’m currently working in different projects with C#-ASP.NET Core and React, Java-Springboot; also the classic stack of HTML, CSS, JS.<br>💞️ I’m looking to collaborate on any project<br>📫 You can contact me on: migueldgdt@gmail.com or whatsapp at +53 56853256
+👋 Hi, I’m Miguel David Gonzalez del Toro a Software Engineering <br>👀 I’m interested in development/creation of web apps!<br>🌱 I’m currently working in different projects with C#-ASP.NET Core and React, Java-Springboot; also the classic stack of HTML, CSS, JS.<br>💞️ I’m looking to collaborate on any project<br>📫 You can contact me on: migueldgdt@gmail.com or whatsapp at +53 56853256
 
 
 # 💻 Tech Stack:
